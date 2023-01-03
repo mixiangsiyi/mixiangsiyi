@@ -45,8 +45,13 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/mixiangs
 
 
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username&theme=mixiangsiyi=flag-india)] -->
+
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=mixiangsiyi&count_private=true&show_icons=true" height=145/></span>
 
 <!--
+
+
 <table border="0">
 <tr>
 <td valign="top">
