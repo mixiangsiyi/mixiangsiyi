@@ -4,9 +4,7 @@
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
-[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_onepiece@163.com)
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:juntaoxiaocc@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
@@ -43,11 +41,11 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/mixiangsiyi/count.svg)]visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=mixiangsiyi&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
 
 <!--
 <table border="0">
@@ -56,7 +54,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=compact" alt="Top Langs" height="160" />
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=mixiangsiyi&show_icons=true" alt="all-smile's GitHub stats" height="160" />
 </td>
 </tr>
 </table>
@@ -64,7 +62,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=mixiangsiyi&show_icons=true)
 -->
 
 ### My Skill Set
