@@ -45,7 +45,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/mixiangs
 
 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=mixiangsiyi&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
 
 <!--
 <table border="0">
