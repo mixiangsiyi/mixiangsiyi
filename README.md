@@ -40,7 +40,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://mixiangsiyi.github.io/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/mixiangsiyi/count.svg)]visitor, Thank You!🎉🎉
+Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/mixiangsiyi/count.svg)visitor, Thank You!🎉🎉
 
 
 
