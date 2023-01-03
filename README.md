@@ -43,7 +43,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/mixiangsiyi/count.svg)]visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiangsiyi=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=mixiangsiyi&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
 
